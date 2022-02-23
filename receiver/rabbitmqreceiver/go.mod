@@ -12,7 +12,7 @@ require go.opentelemetry.io/collector/model v0.42.1-0.20220124134949-6ab3c983bbf
 
 require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/scrapertest v0.42.0
-	go.uber.org/zap v1.20.0
+	go.uber.org/zap v1.21.0
 )
 
 require (
