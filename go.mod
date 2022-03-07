@@ -538,6 +538,8 @@ replace github.com/open-telemetry/opentelemetry-collector-contrib/exporter/awsxr
 
 replace github.com/open-telemetry/opentelemetry-collector-contrib/exporter/azuremonitorexporter => ./exporter/azuremonitorexporter
 
+replace github.com/open-telemetry/opentelemetry-collector-contrib/exporter/azureblobexporter => ./exporter/azureblobexporter
+
 replace github.com/open-telemetry/opentelemetry-collector-contrib/exporter/carbonexporter => ./exporter/carbonexporter
 
 replace github.com/open-telemetry/opentelemetry-collector-contrib/exporter/clickhouseexporter => ./exporter/clickhouseexporter
