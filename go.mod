@@ -10,6 +10,7 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/exporter/awsprometheusremotewriteexporter v0.45.1
 	github.com/open-telemetry/opentelemetry-collector-contrib/exporter/awsxrayexporter v0.45.1
 	github.com/open-telemetry/opentelemetry-collector-contrib/exporter/azuremonitorexporter v0.45.1
+	github.com/open-telemetry/opentelemetry-collector-contrib/exporter/azureblobexporter v0.45.1
 	github.com/open-telemetry/opentelemetry-collector-contrib/exporter/carbonexporter v0.45.1
 	github.com/open-telemetry/opentelemetry-collector-contrib/exporter/clickhouseexporter v0.45.1
 	github.com/open-telemetry/opentelemetry-collector-contrib/exporter/coralogixexporter v0.45.1
