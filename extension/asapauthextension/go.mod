@@ -8,7 +8,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	go.opentelemetry.io/collector v0.42.1-0.20220124134949-6ab3c983bbfb
 	go.uber.org/multierr v1.7.0
-	google.golang.org/grpc v1.43.0
+	google.golang.org/grpc v1.46.2
 )
 
 require (
